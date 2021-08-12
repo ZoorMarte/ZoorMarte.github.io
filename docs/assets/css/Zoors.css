@@ -63,3 +63,8 @@ a {
   border: 0px solid #dee2e6 !important;
 }
 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  color: #fff;
+  background-color: #14203a !important;
+}
+
